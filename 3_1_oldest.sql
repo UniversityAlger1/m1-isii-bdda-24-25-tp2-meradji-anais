@@ -1,1 +1,1 @@
-select Nomch from chercheur order by (date_naissance) limit 1;
+select Nomch from chercheur order by date_naissance limit 1;
